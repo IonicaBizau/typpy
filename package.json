@@ -1,0 +1,28 @@
+{
+  "name": "typpy",
+  "version": "1.0.0",
+  "description": "A better typeof for JavaScript.",
+  "main": "lib/index.js",
+  "directories": {
+    "example": "example",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:IonicaBizau/typpy.git"
+  },
+  "keywords": [
+    "typeof",
+    "javascript",
+    "typpy"
+  ],
+  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "license": "KINDLY",
+  "bugs": {
+    "url": "https://github.com/IonicaBizau/typpy/issues"
+  },
+  "homepage": "https://github.com/IonicaBizau/typpy"
+}
