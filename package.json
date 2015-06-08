@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:IonicaBizau/typpy.git"
+    "url": "git@github.com:IonicaBizau/node-typpy.git"
   },
   "keywords": [
     "typeof",
@@ -22,9 +22,9 @@
   "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
   "license": "KINDLY",
   "bugs": {
-    "url": "https://github.com/IonicaBizau/typpy/issues"
+    "url": "https://github.com/IonicaBizau/node-typpy/issues"
   },
-  "homepage": "https://github.com/IonicaBizau/typpy",
+  "homepage": "https://github.com/IonicaBizau/node-typpy",
   "blah": {
       "h_img": "http://i.imgur.com/FkoAc5n.png"
   }
