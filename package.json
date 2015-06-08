@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/IonicaBizau/typpy/issues"
   },
-  "homepage": "https://github.com/IonicaBizau/typpy"
+  "homepage": "https://github.com/IonicaBizau/typpy",
+  "blah": {
+      "h_img": "http://i.imgur.com/FkoAc5n.png"
+  }
 }

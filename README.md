@@ -13,6 +13,8 @@
 <!-- * * * Thanks! * * *                                                    -->
 <!---------------------------------------------------------------------------->
 
+![typpy](http://i.imgur.com/FkoAc5n.png)
+
 # typpy [![Donate now][donate-now]][paypal-donations]
 
 A better typeof for JavaScript.
