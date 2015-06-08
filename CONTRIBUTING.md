@@ -56,5 +56,5 @@ Finally, your contributions will be merged, and everyone will be happy! :smile:
 
 Thanks! :sweat_smile:
 
-[1]: https://github.com/IonicaBizau/typpy/issues
+[1]: https://github.com/IonicaBizau/node-typpy/issues
 [2]: https://github.com/IonicaBizau/code-style
