@@ -27,5 +27,9 @@
   "homepage": "https://github.com/IonicaBizau/node-typpy",
   "blah": {
     "h_img": "http://i.imgur.com/FkoAc5n.png"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^2.2.5"
   }
 }
