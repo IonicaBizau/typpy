@@ -20,7 +20,7 @@ const TESTS = [
 
 TESTS.forEach(function (c) {
     it("should " + c[0], function (cb) {
-        Assert.equal(Typpy(c[1]).is(c[2]), true);
+        Assert.equal(Typpy(c[1], c[2]), true);
         cb();
     });
 });
