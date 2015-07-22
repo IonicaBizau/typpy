@@ -7,6 +7,7 @@ var Typpy = require("../lib")
 const TESTS = [
     ["check null", null, "null"]
   , ["check undefined", undefined, "undefined"]
+  , ["check NaN", NaN, "nan"]
   , ["support objects", {}, "object"]
   , ["support numbers", 42, "number"]
   , ["support strings", "hello", "string"]
@@ -19,7 +20,7 @@ const TESTS = [
 
 TESTS.forEach(function (c) {
     it("should " + c[0], function (cb) {
-        Assert(Typpy(c[1]), c[2]);
+        Assert.equal(Typpy(c[1]), c[2]);
         cb();
     });
 });
