@@ -15,3 +15,6 @@ console.log(Typpy([]));
 
 console.log(Typpy({}));
 // => "object"
+
+console.log(Typpy({}, Object));
+// => "object"
