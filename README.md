@@ -13,7 +13,7 @@
 <!-- * * * Thanks! * * *                                                    -->
 <!---------------------------------------------------------------------------->
 
-![typpy](http://i.imgur.com/FkoAc5n.png)
+[![typpy](http://i.imgur.com/FkoAc5n.png)](#)
 
 # typpy [![Donate now][donate-now]][paypal-donations]
 
@@ -48,7 +48,6 @@ console.log(Typpy({}, true));
 
 console.log(Typpy({}, Object));
 // => true
-
 ```
 
 ## Documentation
@@ -99,6 +98,35 @@ Gets the type of the input value. This is used internally.
 ## How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
 
+## Where is this library used?
+If you are using this library in one of your projects, add it in this list. :sparkles:
+
+ - [`blah`](https://github.com/IonicaBizau/node-blah)
+
+ - [`bug-killer`](https://github.com/IonicaBizau/node-bug-killer)
+
+ - [`cli-gh-cal`](https://github.com/IonicaBizau/cli-gh-cal)
+
+ - [`couleurs`](https://github.com/IonicaBizau/couleurs)
+
+ - [`deffy`](https://github.com/IonicaBizau/node-deffy)
+
+ - [`diable`](https://github.com/IonicaBizau/diable)
+
+ - [`elm-select`](https://github.com/IonicaBizau/elm-select.js)
+
+ - [`exec-limiter`](https://github.com/IonicaBizau/node-exec-limiter)
+
+ - [`ghcal`](https://github.com/IonicaBizau/ghcal)
+
+ - [`git-stats`](https://github.com/IonicaBizau/git-stats)
+
+ - [`git-stats-importer`](https://github.com/IonicaBizau/git-stats-importer)
+
+ - [`limit-it`](https://github.com/IonicaBizau/node-limit-it)
+
+ - [`ul`](https://github.com/IonicaBizau/node-ul)
+
 ## License
 [KINDLY][license] © [Ionică Bizău][website]–The [LICENSE](/LICENSE) file contains
 a copy of the license.
@@ -108,4 +136,4 @@ a copy of the license.
 [website]: http://ionicabizau.net
 [docs]: /DOCUMENTATION.md
 [paypal-donations]: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MG98D7NPFZ3MG
-[donate-now]: http://i.imgur.com/jioicaN.png
+[donate-now]: http://i.imgur.com/6cMbHOC.png
