@@ -1,6 +1,6 @@
 {
   "name": "typpy",
-  "version": "2.1.1",
+  "version": "2.1.2",
   "description": "A better typeof for JavaScript.",
   "main": "lib/index.js",
   "directories": {
