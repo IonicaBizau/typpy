@@ -1,13 +1,13 @@
 [![typpy](http://i.imgur.com/FkoAc5n.png)](#)
 
-# typpy [![Donate now][donate-now]][paypal-donations]
+# typpy [![Support this project][donate-now]][paypal-donations]
 
 A better typeof for JavaScript.
 
 ## Installation
 
 ```sh
-$ npm i typpy
+$ npm i -g typpy
 ```
 
 ## Example
@@ -86,7 +86,7 @@ Have an idea? Found a bug? See [how to contribute][contributing].
 ## Where is this library used?
 If you are using this library in one of your projects, add it in this list. :sparkles:
 
- - [`blah`](https://github.com/IonicaBizau/node-blah)
+ - [`blah`](https://github.com/IonicaBizau/blah)
 
  - [`bug-killer`](https://github.com/IonicaBizau/node-bug-killer)
 
@@ -94,7 +94,7 @@ If you are using this library in one of your projects, add it in this list. :spa
 
  - [`couleurs`](https://github.com/IonicaBizau/couleurs)
 
- - [`deffy`](https://github.com/IonicaBizau/node-deffy)
+ - [`deffy`](https://github.com/IonicaBizau/deffy.js)
 
  - [`diable`](https://github.com/IonicaBizau/diable)
 
@@ -113,12 +113,14 @@ If you are using this library in one of your projects, add it in this list. :spa
  - [`ul`](https://github.com/IonicaBizau/node-ul)
 
 ## License
-[KINDLY][license] © [Ionică Bizău][website]–The [LICENSE](/LICENSE) file contains
-a copy of the license.
+
+[KINDLY][license] © [Ionică Bizău][website]
 
 [license]: http://ionicabizau.github.io/kindly-license/?author=Ionic%C4%83%20Biz%C4%83u%20%3Cbizauionica@gmail.com%3E&year=2015
-[contributing]: /CONTRIBUTING.md
+
 [website]: http://ionicabizau.net
-[docs]: /DOCUMENTATION.md
-[paypal-donations]: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MG98D7NPFZ3MG
+[paypal-donations]: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RVXDDLKKLQRJW
 [donate-now]: http://i.imgur.com/6cMbHOC.png
+
+[contributing]: /CONTRIBUTING.md
+[docs]: /DOCUMENTATION.md
