@@ -7,7 +7,7 @@ A better typeof for JavaScript.
 ## Installation
 
 ```sh
-$ npm i -g typpy
+$ npm i typpy
 ```
 
 ## Example
