@@ -7,7 +7,7 @@ A better typeof for JavaScript.
 ## Installation
 
 ```sh
-$ npm i typpy
+$ npm i --save typpy
 ```
 
 ## Example
@@ -92,17 +92,25 @@ If you are using this library in one of your projects, add it in this list. :spa
 
  - [`cli-gh-cal`](https://github.com/IonicaBizau/cli-gh-cal)
 
- - [`couleurs`](https://github.com/IonicaBizau/couleurs)
+ - [`couleurs`](https://github.com/IonicaBizau/node-couleurs)
 
  - [`deffy`](https://github.com/IonicaBizau/deffy.js)
 
  - [`diable`](https://github.com/IonicaBizau/diable)
 
- - [`elm-select`](https://github.com/IonicaBizau/elm-select.js)
+ - [`elm-select`](https://github.com/IonicaBizau/elm-select)
+
+ - [`engine-parser`](https://github.com/IonicaBizau/engine-parser) by jillix
+
+ - [`enny`](https://github.com/IonicaBizau/enny) by jillix
+
+ - [`err`](https://github.com/IonicaBizau/err#readme)
 
  - [`exec-limiter`](https://github.com/IonicaBizau/node-exec-limiter)
 
  - [`ghcal`](https://github.com/IonicaBizau/ghcal)
+
+ - [`ghosty`](https://github.com/IonicaBizau/ghosty#readme)
 
  - [`git-stats`](https://github.com/IonicaBizau/git-stats)
 
@@ -114,13 +122,12 @@ If you are using this library in one of your projects, add it in this list. :spa
 
 ## License
 
-[KINDLY][license] © [Ionică Bizău][website]
+[MIT][license] © [Ionică Bizău][website]
 
-[license]: http://ionicabizau.github.io/kindly-license/?author=Ionic%C4%83%20Biz%C4%83u%20%3Cbizauionica@gmail.com%3E&year=2015
-
-[website]: http://ionicabizau.net
 [paypal-donations]: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RVXDDLKKLQRJW
 [donate-now]: http://i.imgur.com/6cMbHOC.png
 
+[license]: http://showalicense.com/?fullname=Ionic%C4%83%20Biz%C4%83u%20%3Cbizauionica%40gmail.com%3E%20(http%3A%2F%2Fionicabizau.net)&year=2015#license-mit
+[website]: http://ionicabizau.net
 [contributing]: /CONTRIBUTING.md
 [docs]: /DOCUMENTATION.md
