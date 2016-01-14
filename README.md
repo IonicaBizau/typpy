@@ -1,8 +1,8 @@
 [![typpy](http://i.imgur.com/FkoAc5n.png)](#)
 
-# typpy [![Support this project][donate-now]][paypal-donations]
+# typpy [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![Travis](https://img.shields.io/travis/IonicaBizau/typpy.js.svg)](https://travis-ci.org/IonicaBizau/typpy.js/) [![Version](https://img.shields.io/npm/v/typpy.svg)](https://www.npmjs.com/package/typpy) [![Downloads](https://img.shields.io/npm/dt/typpy.svg)](https://www.npmjs.com/package/typpy) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
-A better typeof for JavaScript.
+> A better typeof for JavaScript.
 
 ## Installation
 
@@ -99,6 +99,8 @@ If you are using this library in one of your projects, add it in this list. :spa
  - [`diable`](https://github.com/IonicaBizau/diable)
 
  - [`elm-select`](https://github.com/IonicaBizau/elm-select)
+
+ - [`engine-flow-types`](https://github.com/jillix/engine-flow-types#readme) by jillix
 
  - [`engine-parser`](https://github.com/IonicaBizau/engine-parser) by jillix
 
