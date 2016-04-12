@@ -1,6 +1,6 @@
 {
   "name": "typpy",
-  "version": "2.3.1",
+  "version": "2.3.2",
   "description": "A better typeof for JavaScript.",
   "main": "lib/index.js",
   "directories": {
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:IonicaBizau/typpy.js.git"
+    "url": "git@github.com:IonicaBizau/typpy.git"
   },
   "keywords": [
     "typeof",
@@ -22,9 +22,9 @@
   "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/IonicaBizau/typpy.js/issues"
+    "url": "https://github.com/IonicaBizau/typpy/issues"
   },
-  "homepage": "https://github.com/IonicaBizau/typpy.js",
+  "homepage": "https://github.com/IonicaBizau/typpy",
   "blah": {
     "h_img": "http://i.imgur.com/FkoAc5n.png"
   },
