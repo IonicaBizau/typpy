@@ -1,3 +1,4 @@
+
 [![typpy](http://i.imgur.com/FkoAc5n.png)](#)
 
 # typpy [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![Travis](https://img.shields.io/travis/IonicaBizau/typpy.svg)](https://travis-ci.org/IonicaBizau/typpy/) [![Version](https://img.shields.io/npm/v/typpy.svg)](https://www.npmjs.com/package/typpy) [![Downloads](https://img.shields.io/npm/dt/typpy.svg)](https://www.npmjs.com/package/typpy) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
@@ -5,15 +6,15 @@
 > A better typeof for JavaScript.
 
 ## :cloud: Installation
-    
+
 ```sh
 $ npm i --save typpy
 ```
 
-            
+
 ## :clipboard: Example
 
-        
+
 
 ```js
 // Dependencies
@@ -37,9 +38,10 @@ console.log(Typpy({}, true));
 console.log(Typpy({}, Object));
 // => true
 ```
-    
+
 ## :memo: Documentation
-        
+
+
 ### `Typpy(input, target)`
 Gets the type of the input value or compares it
 with a provided type.
@@ -83,13 +85,16 @@ Gets the type of the input value. This is used internally.
 #### Return
 - **Constructor|String** The input value constructor (if any) or the stringified type (always lowercase).
 
-        
+
+
 ## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
 
 ## :dizzy: Where is this library used?
 If you are using this library in one of your projects, add it in this list. :sparkles:
 
+
+ - [`barbe`](https://github.com/IonicaBizau/barbe)—Like mustache, but simple, tiny and fast.
  - [`blah`](https://github.com/IonicaBizau/blah)—A command line tool to optimize the repetitive actions.
  - [`bug-killer`](https://github.com/IonicaBizau/node-bug-killer)—Simple way to log messages in stdout or other stream.
  - [`cli-gh-cal`](https://github.com/IonicaBizau/cli-gh-cal)—GitHub like calendar graphs in command line.
@@ -110,13 +115,14 @@ If you are using this library in one of your projects, add it in this list. :spa
  - [`git-stats-importer`](https://github.com/IonicaBizau/git-stats-importer)—Imports your commits from a repository into git-stats history.
  - [`limit-it`](https://github.com/IonicaBizau/node-limit-it)—Run in parallel as many functions you want, but not more than <x> functions at the time.
  - [`obj-flatten`](https://github.com/IonicaBizau/obj-flatten#readme)—Convert nested objects in flatten ones.
+ - [`tilda`](https://github.com/IonicaBizau/tilda)—Tiny module for building command line tools.
  - [`ul`](https://github.com/IonicaBizau/node-ul)—A minimalist utility library.
  - [`validify`](https://github.com/IonicaBizau/validify#readme)—Validation made easy.
 
 ## :scroll: License
-    
+
 [MIT][license] © [Ionică Bizău][website]
-    
+
 [paypal-donations]: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RVXDDLKKLQRJW
 [donate-now]: http://i.imgur.com/6cMbHOC.png
 
