@@ -31,5 +31,12 @@
   "dependencies": {},
   "devDependencies": {
     "mocha": "^2.2.5"
-  }
+  },
+  "files": [
+    "bin/",
+    "lib/",
+    "dist/",
+    "src/",
+    "cli.js"
+  ]
 }
