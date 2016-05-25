@@ -1,7 +1,9 @@
 
 [![typpy](http://i.imgur.com/FkoAc5n.png)](#)
 
-# typpy [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![Travis](https://img.shields.io/travis/IonicaBizau/typpy.svg)](https://travis-ci.org/IonicaBizau/typpy/) [![Version](https://img.shields.io/npm/v/typpy.svg)](https://www.npmjs.com/package/typpy) [![Downloads](https://img.shields.io/npm/dt/typpy.svg)](https://www.npmjs.com/package/typpy) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
+# typpy
+
+ [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![AMA](https://img.shields.io/badge/ask%20me-anything-1abc9c.svg)](https://github.com/IonicaBizau/ama) [![Travis](https://img.shields.io/travis/IonicaBizau/typpy.svg)](https://travis-ci.org/IonicaBizau/typpy/) [![Version](https://img.shields.io/npm/v/typpy.svg)](https://www.npmjs.com/package/typpy) [![Downloads](https://img.shields.io/npm/dt/typpy.svg)](https://www.npmjs.com/package/typpy) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
 > A better typeof for JavaScript.
 
@@ -94,6 +96,7 @@ Have an idea? Found a bug? See [how to contribute][contributing].
 If you are using this library in one of your projects, add it in this list. :sparkles:
 
 
+ - [`babel-it`](https://github.com/IonicaBizau/babel-it#readme)—Babelify your code before `npm publish`.
  - [`barbe`](https://github.com/IonicaBizau/barbe)—Like mustache, but simple, tiny and fast.
  - [`blah`](https://github.com/IonicaBizau/blah)—A command line tool to optimize the repetitive actions.
  - [`bug-killer`](https://github.com/IonicaBizau/node-bug-killer)—Simple way to log messages in stdout or other stream.
@@ -115,6 +118,7 @@ If you are using this library in one of your projects, add it in this list. :spa
  - [`git-stats-importer`](https://github.com/IonicaBizau/git-stats-importer)—Imports your commits from a repository into git-stats history.
  - [`limit-it`](https://github.com/IonicaBizau/node-limit-it)—Run in parallel as many functions you want, but not more than <x> functions at the time.
  - [`obj-flatten`](https://github.com/IonicaBizau/obj-flatten#readme)—Convert nested objects in flatten ones.
+ - [`scrape-it`](https://github.com/IonicaBizau/scrape-it#readme)—A Node.js scraper for humans.
  - [`tilda`](https://github.com/IonicaBizau/tilda)—Tiny module for building command line tools.
  - [`ul`](https://github.com/IonicaBizau/node-ul)—A minimalist utility library.
  - [`validify`](https://github.com/IonicaBizau/validify#readme)—Validation made easy.
