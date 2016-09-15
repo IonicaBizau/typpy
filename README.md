@@ -96,14 +96,19 @@ Have an idea? Found a bug? See [how to contribute][contributing].
 If you are using this library in one of your projects, add it in this list. :sparkles:
 
 
+ - [`animato`](https://github.com/IonicaBizau/animato.js#readme)—Simple way to animate anything (even simple values).
+ - [`asyncer.js`](https://github.com/IonicaBizau/asyncer.js#readme)—Run groups of (a)sync functions.
  - [`babel-it`](https://github.com/IonicaBizau/babel-it#readme)—Babelify your code before `npm publish`.
  - [`barbe`](https://github.com/IonicaBizau/barbe)—Like mustache, but simple, tiny and fast.
  - [`blah`](https://github.com/IonicaBizau/blah)—A command line tool to optimize the repetitive actions.
  - [`bug-killer`](https://github.com/IonicaBizau/node-bug-killer)—Simple way to log messages in stdout or other stream.
+ - [`cli-circle`](https://github.com/IonicaBizau/node-cli-circle)—Generate ASCII circles with NodeJS.
  - [`cli-gh-cal`](https://github.com/IonicaBizau/cli-gh-cal)—GitHub like calendar graphs in command line.
+ - [`color-it`](https://github.com/IonicaBizau/node-color-it#readme)—Flat colors for your Node.js strings.
  - [`couleurs`](https://github.com/IonicaBizau/node-couleurs)—Add some color and styles to your Node.JS strings.
  - [`deffy`](https://github.com/IonicaBizau/deffy.js)—Small and fast library to set default values.
  - [`diable`](https://github.com/IonicaBizau/diable)—Daemonize the things out.
+ - [`dom-repeater`](https://github.com/IonicaBizau/dom-repeater#readme)—Render lists in DOM easily.
  - [`elm-select`](https://github.com/IonicaBizau/elm-select)—Select DOM elements and optionally call a function.
  - [`engine-builder`](https://github.com/IonicaBizau/engine-parser) (by jillix)—Engine composition parser.
  - [`engine-flow-types`](https://github.com/jillix/engine-flow-types#readme) (by jillix)—Low level library providing Engine flow types.
@@ -111,6 +116,7 @@ If you are using this library in one of your projects, add it in this list. :spa
  - [`enny`](https://github.com/IonicaBizau/enny) (by jillix)—Generate Engine compositions from human-readable inputs.
  - [`err`](https://github.com/IonicaBizau/err#readme)—A tiny library to create custom errors in JavaScript.
  - [`exec-limiter`](https://github.com/IonicaBizau/node-exec-limiter)—Limit the shell execution commands to <x> calls same time.
+ - [`flattenize`](https://github.com/IonicaBizau/node-flattenize)—An experiment for converting images in flat equivalents.
  - [`gh-repos`](https://github.com/IonicaBizau/gh-repos#readme)—Get one or all the owner repositories from GitHub.
  - [`ghcal`](https://github.com/IonicaBizau/ghcal)—See the GitHub contributions calendar of a user in the command line.
  - [`ghosty`](https://github.com/IonicaBizau/ghosty#readme)—A wrapper around PhantomJS, downloading the Phantom binary.
@@ -118,10 +124,14 @@ If you are using this library in one of your projects, add it in this list. :spa
  - [`git-stats-importer`](https://github.com/IonicaBizau/git-stats-importer)—Imports your commits from a repository into git-stats history.
  - [`limit-it`](https://github.com/IonicaBizau/node-limit-it)—Run in parallel as many functions you want, but not more than <x> functions at the time.
  - [`obj-flatten`](https://github.com/IonicaBizau/obj-flatten#readme)—Convert nested objects in flatten ones.
+ - [`page-changed`](https://github.com/IonicaBizau/node-page-changed)—Call a function when the page body is changed.
+ - [`regarde`](https://github.com/IonicaBizau/regarde)—A tiny tool and library to watch commands.
  - [`scrape-it`](https://github.com/IonicaBizau/scrape-it#readme)—A Node.js scraper for humans.
  - [`tilda`](https://github.com/IonicaBizau/tilda)—Tiny module for building command line tools.
+ - [`transformer`](https://github.com/IonicaBizau/transformer#readme)—Transform data using synchronous and asynchronous functions.
  - [`ul`](https://github.com/IonicaBizau/node-ul)—A minimalist utility library.
  - [`validify`](https://github.com/IonicaBizau/validify#readme)—Validation made easy.
+ - [`write-file-p`](https://github.com/IonicaBizau/write-file-p#readme)—Create the directory structure and then create the file.
 
 ## :scroll: License
 
