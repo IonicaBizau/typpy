@@ -28,7 +28,9 @@
   "blah": {
     "h_img": "http://i.imgur.com/FkoAc5n.png"
   },
-  "dependencies": {},
+  "dependencies": {
+    "function.name": "^1.0.3"
+  },
   "devDependencies": {
     "mocha": "^2.2.5"
   },
