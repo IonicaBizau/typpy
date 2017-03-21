@@ -1,6 +1,6 @@
 {
   "name": "typpy",
-  "version": "2.3.6",
+  "version": "2.3.7",
   "description": "A better typeof for JavaScript.",
   "main": "lib/index.js",
   "directories": {
@@ -19,7 +19,7 @@
     "javascript",
     "typpy"
   ],
-  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "author": "Ionică Bizău <bizauionica@gmail.com> (https://ionicabizau.net)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/IonicaBizau/typpy/issues"
@@ -38,12 +38,11 @@
     "bin/",
     "app/",
     "lib/",
-    "build/",
     "dist/",
     "src/",
+    "scripts/",
     "resources/",
     "menu/",
-    "scripts/",
     "cli.js",
     "index.js"
   ]
