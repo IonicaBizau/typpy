@@ -3,7 +3,7 @@
 
 # typpy
 
- [![Patreon](https://img.shields.io/badge/Support%20me%20on-Patreon-%23e6461a.svg)][patreon] [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![AMA](https://img.shields.io/badge/ask%20me-anything-1abc9c.svg)](https://github.com/IonicaBizau/ama) [![Travis](https://img.shields.io/travis/IonicaBizau/typpy.svg)](https://travis-ci.org/IonicaBizau/typpy/) [![Version](https://img.shields.io/npm/v/typpy.svg)](https://www.npmjs.com/package/typpy) [![Downloads](https://img.shields.io/npm/dt/typpy.svg)](https://www.npmjs.com/package/typpy) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
+ [![Support me on Patreon][badge_patreon]][patreon] [![Buy me a book][badge_amazon]][amazon] [![PayPal][badge_paypal_donate]][paypal-donations] [![Travis](https://img.shields.io/travis/IonicaBizau/typpy.svg)](https://travis-ci.org/IonicaBizau/typpy/) [![Version](https://img.shields.io/npm/v/typpy.svg)](https://www.npmjs.com/package/typpy) [![Downloads](https://img.shields.io/npm/dt/typpy.svg)](https://www.npmjs.com/package/typpy)
 
 > A better typeof for JavaScript.
 
@@ -93,14 +93,22 @@ Gets the type of the input value. This is used internally.
 Have an idea? Found a bug? See [how to contribute][contributing].
 
 
-## :moneybag: Donations
+## :sparkling_heart: Support my projects
 
-Another way to support the development of my open-source modules is
-to [set up a recurring donation, via Patreon][patreon]. :rocket:
+I open-source almost everything I can, and I try to reply everyone needing help using these projects. Obviously,
+this takes time. You can integrate and use these projects in your applications *for free*! You can even change the source code and redistribute (even resell it).
 
-[PayPal donations][paypal-donations] are appreciated too! Each dollar helps.
+However, if you get some profit from this or just want to encourage me to continue creating stuff, there are few ways you can do it:
+
+ - Starring and sharing the projects you like :rocket:
+ - [![PayPal][badge_paypal]][paypal-donations]—You can make one-time donations via PayPal. I'll probably buy a ~~coffee~~ tea. :tea:
+ - [![Support me on Patreon][badge_patreon]][patreon]—Set up a recurring monthly donation and you will get interesting news about what I'm doing (things that I don't share with everyone).
+ - **Bitcoin**—You can send me bitcoins at this address (or scanning the code below): `1P9BRsmazNQcuyTxEqveUsnf5CERdq35V6`
+
+    ![](https://i.imgur.com/z6OQI95.png)
 
 Thanks! :heart:
+
 
 ## :dizzy: Where is this library used?
 If you are using this library in one of your projects, add it in this list. :sparkles:
@@ -108,10 +116,12 @@ If you are using this library in one of your projects, add it in this list. :spa
 
  - [`animato`](https://github.com/IonicaBizau/animato.js#readme)—Simple way to animate anything (even simple values).
  - [`asyncer.js`](https://github.com/IonicaBizau/asyncer.js#readme)—Run groups of (a)sync functions.
+ - [`auto-parse`](https://github.com/greenpioneersolutions/auto-parse#readme) (by Green Pioneer)—auto-parse any value you happen to send in (String, Number, Boolean,Array, Object, Function, undefined and null). You send it we will try to find a way to parse it.support sending in a string of what type (e.g. boolean) or constructor (e.g. Boolean)
  - [`babel-it`](https://github.com/IonicaBizau/babel-it#readme)—Babelify your code before `npm publish`.
  - [`barbe`](https://github.com/IonicaBizau/barbe)—Like mustache, but simple, tiny and fast.
  - [`blah`](https://github.com/IonicaBizau/blah)—A command line tool to optimize the repetitive actions.
  - [`bloggify-ajs-renderer`](https://github.com/IonicaBizau/bloggify-ajs-renderer#readme)—ajs renderer for Bloggify.
+ - [`bloggify-flexible-router`](https://github.com/Bloggify/flexible-router#readme) (by Bloggify)—A flexible router for Bloggify apps.
  - [`bug-killer`](https://github.com/IonicaBizau/node-bug-killer)—Simple way to log messages in stdout or other stream.
  - [`cli-circle`](https://github.com/IonicaBizau/node-cli-circle)—Generate ASCII circles with NodeJS.
  - [`cli-gh-cal`](https://github.com/IonicaBizau/cli-gh-cal)—GitHub like calendar graphs in command line.
@@ -126,7 +136,7 @@ If you are using this library in one of your projects, add it in this list. :spa
  - [`engine-parser`](https://github.com/IonicaBizau/engine-parser) (by jillix)—Engine composition parser.
  - [`enny`](https://github.com/IonicaBizau/enny) (by jillix)—Generate Engine compositions from human-readable inputs.
  - [`err`](https://github.com/IonicaBizau/err#readme)—A tiny library to create custom errors in JavaScript.
- - [`exec-limiter`](https://github.com/IonicaBizau/node-exec-limiter)—Limit the shell execution commands to <x> calls same time.
+ - [`exec-limiter`](https://github.com/IonicaBizau/exec-limiter)—Limit the shell execution commands to <x> calls same time.
  - [`flattenize`](https://github.com/IonicaBizau/node-flattenize)—An experiment for converting images in flat equivalents.
  - [`gh-repos`](https://github.com/IonicaBizau/gh-repos#readme)—Get one or all the owner repositories from GitHub.
  - [`ghcal`](https://github.com/IonicaBizau/ghcal)—See the GitHub contributions calendar of a user in the command line.
@@ -148,11 +158,16 @@ If you are using this library in one of your projects, add it in this list. :spa
 
 [MIT][license] © [Ionică Bizău][website]
 
+[badge_patreon]: http://ionicabizau.github.io/badges/patreon.svg
+[badge_amazon]: http://ionicabizau.github.io/badges/amazon.svg
+[badge_paypal]: http://ionicabizau.github.io/badges/paypal.svg
+[badge_paypal_donate]: http://ionicabizau.github.io/badges/paypal_donate.svg
 [patreon]: https://www.patreon.com/ionicabizau
+[amazon]: http://amzn.eu/hRo9sIZ
 [paypal-donations]: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RVXDDLKKLQRJW
 [donate-now]: http://i.imgur.com/6cMbHOC.png
 
-[license]: http://showalicense.com/?fullname=Ionic%C4%83%20Biz%C4%83u%20%3Cbizauionica%40gmail.com%3E%20(http%3A%2F%2Fionicabizau.net)&year=2015#license-mit
-[website]: http://ionicabizau.net
+[license]: http://showalicense.com/?fullname=Ionic%C4%83%20Biz%C4%83u%20%3Cbizauionica%40gmail.com%3E%20(https%3A%2F%2Fionicabizau.net)&year=2015#license-mit
+[website]: https://ionicabizau.net
 [contributing]: /CONTRIBUTING.md
 [docs]: /DOCUMENTATION.md
