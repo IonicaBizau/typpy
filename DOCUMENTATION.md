@@ -15,6 +15,7 @@ Typpy.get([], "array"); => true
 ```
 
 #### Params
+
 - **Anything** `input`: The input value.
 - **Constructor|String** `target`: The target type. It could be a string (e.g. `"array"`) or a
 constructor (e.g. `Array`).
@@ -28,6 +29,7 @@ constructor (e.g. `Array`).
 Checks if the input value has a specified type.
 
 #### Params
+
 - **Anything** `input`: The input value.
 - **Constructor|String** `target`: The target type. It could be a string (e.g. `"array"`) or a
 constructor (e.g. `Array`).
@@ -39,6 +41,7 @@ constructor (e.g. `Array`).
 Gets the type of the input value. This is used internally.
 
 #### Params
+
 - **Anything** `input`: The input value.
 - **Boolean** `str`: A flag to indicate if the return value should be a string or not.
 
