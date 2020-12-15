@@ -96,6 +96,12 @@ console.log(Typpy({}, true));
 
 console.log(Typpy({}, Object));
 // => true
+
+console.log(Typpy.get({}));
+// => Object
+
+console.log(Typpy.get(42, true));
+// => "number"
 ```
 
 
@@ -226,15 +232,15 @@ If you are using this library in one of your projects, add it in this list. :spa
 
  - `ul`
  - `scrape-it`
- - `bug-killer`
  - `err`
+ - `bug-killer`
  - `tilda`
  - `deffy`
  - `couleurs`
  - `auto-parse`
  - `barbe`
- - `exec-limiter`
  - `elm-select`
+ - `exec-limiter`
  - `color-it`
  - `diable`
  - `write-file-p`
@@ -242,24 +248,25 @@ If you are using this library in one of your projects, add it in this list. :spa
  - `cli-gh-cal`
  - `cute-logger`
  - `bloggify-ajs-renderer`
- - `bloggify-renderer-ajs`
- - `bloggify-flexible-router`
- - `git-stats`
  - `page-changed`
  - `transformer`
- - `obj2env`
+ - `bloggify-flexible-router`
+ - `bloggify-renderer-ajs`
+ - `git-stats`
  - `engine-parser`
  - `engine-builder`
  - `enny`
  - `engine-flow-types`
- - `validify`
- - `blah`
- - `asyncer.js`
- - `babel-it`
- - `ghosty`
  - `gh-repos`
  - `ghcal`
+ - `ghosty`
+ - `asyncer.js`
+ - `babel-it`
+ - `blah`
+ - `cli-circle`
+ - `validify`
  - `limit-it`
+ - `obj2env`
  - `lynn-touch`
  - `scrape-it-plus`
  - `@slikts/scrape-it`
