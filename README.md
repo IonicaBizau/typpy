@@ -92,7 +92,7 @@ console.log(Typpy.get([]));
 // => Array
 
 console.log(Typpy({}, true));
-// => "object"
+// => false
 
 console.log(Typpy({}, Object));
 // => true

@@ -48,5 +48,8 @@
     "bloggify.js",
     "bloggify.json",
     "bloggify/"
-  ]
+  ],
+  "contributors": [
+    "Hunter Paulson <HPaulson@SeismicCore.com>"
+ ]
 }

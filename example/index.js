@@ -14,7 +14,13 @@ console.log(Typpy.get([]));
 // => Array
 
 console.log(Typpy({}, true));
-// => "object"
+// => false
 
 console.log(Typpy({}, Object));
 // => true
+
+console.log(Typpy.get({}));
+// => Object
+
+console.log(Typpy.get(42, true));
+// => "number"
