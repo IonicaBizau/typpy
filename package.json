@@ -1,6 +1,6 @@
 {
   "name": "typpy",
-  "version": "2.3.12",
+  "version": "2.3.13",
   "description": "A better typeof for JavaScript.",
   "main": "lib/index.js",
   "directories": {
@@ -32,7 +32,7 @@
     "function.name": "^1.0.3"
   },
   "devDependencies": {
-    "mocha": "^2.2.5"
+    "mocha": "^8.2.1"
   },
   "files": [
     "bin/",
