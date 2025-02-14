@@ -1,6 +1,6 @@
 {
   "name": "typpy",
-  "version": "2.3.13",
+  "version": "2.3.14",
   "description": "A better typeof for JavaScript.",
   "main": "lib/index.js",
   "directories": {
@@ -45,6 +45,8 @@
     "menu/",
     "cli.js",
     "index.js",
+    "index.d.ts",
+    "package-lock.json",
     "bloggify.js",
     "bloggify.json",
     "bloggify/"
