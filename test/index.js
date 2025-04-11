@@ -16,6 +16,7 @@ const TESTS = [
         function Person() {}
         return new Person();
     })(), "person"]
+  , ["support null objects", Object.create(null), "object"]
 ];
 
 TESTS.forEach(function (c) {
