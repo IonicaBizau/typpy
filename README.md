@@ -114,23 +114,6 @@ console.log(Typpy.get(42, true));
 
 
 
-
-## :question: Get Help
-
-There are few ways to get help:
-
-
-
- 1. Please [post questions on Stack Overflow](https://stackoverflow.com/questions/ask). You can open issues with questions, as long you add a link to your Stack Overflow question.
- 2. For bug reports and feature requests, open issues. :bug:
- 3. For direct and quick help, you can [use Codementor](https://www.codementor.io/johnnyb). :rocket:
-
-
-
-
-
-
-
 ## :memo: Documentation
 
 
@@ -188,6 +171,24 @@ Gets the type of the input value. This is used internally.
 
 
 
+## :question: Get Help
+
+There are few ways to get help:
+
+
+
+ 1. Please [post questions on Stack Overflow](https://stackoverflow.com/questions/ask). You can open issues with questions, as long you add a link to your Stack Overflow question.
+ 2. For bug reports and feature requests, open issues. :bug:
+ 3. For direct and quick help, you can [use Codementor](https://www.codementor.io/johnnyb). :rocket:
+
+
+
+
+
+
+
+
+
 
 
 
@@ -227,6 +228,68 @@ Thanks! :heart:
 
 
 
+
+
+
+## :dizzy: Where is this library used?
+If you are using this library in one of your projects, add it in this list. :sparkles:
+
+ - `@kazesolo/scraped`
+ - `@slikts/scrape-it`
+ - `@ywzhaiqi/scrape-it-core`
+ - `angularvezba`
+ - `animato`
+ - `asyncer.js`
+ - `auto-parse`
+ - `babel-it`
+ - `barbe`
+ - `blah`
+ - `bloggify`
+ - `bloggify-ajs-renderer`
+ - `bloggify-cli`
+ - `bloggify-flexible-router`
+ - `bloggify-renderer-ajs`
+ - `bug-killer`
+ - `cli-circle`
+ - `cli-gh-cal`
+ - `color-it`
+ - `couleurs`
+ - `cute-logger`
+ - `deffy`
+ - `diable`
+ - `dom-repeater`
+ - `elm-select`
+ - `engine-builder`
+ - `engine-flow-types`
+ - `engine-parser`
+ - `enny`
+ - `err`
+ - `exec-limiter`
+ - `flattenize`
+ - `function-data-converter`
+ - `gh-repos`
+ - `ghcal`
+ - `ghoos`
+ - `ghosty`
+ - `git-stats`
+ - `git-stats-importer`
+ - `limit-it`
+ - `lynn-touch`
+ - `markdownalint-cli2`
+ - `obj-flatten`
+ - `obj2env`
+ - `page-changed`
+ - `regarde`
+ - `scrape-it`
+ - `scrape-it-core`
+ - `scrape-it-plus`
+ - `scraped-core`
+ - `tilda`
+ - `tools_may_24`
+ - `transformer`
+ - `ul`
+ - `validify`
+ - `write-file-p`
 
 
 
