@@ -1,5 +1,4 @@
-// Dependencies
-var Typpy = require("../lib");
+import Typpy from "../lib/index.js";
 
 console.log(Typpy(0));
 // => "number"

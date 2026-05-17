@@ -1,7 +1,5 @@
-// Dependencies
-var Typpy = require("../lib")
-  , Assert = require("assert")
-  ;
+import assert from "node:assert";
+import Typpy from "../lib/index.js";
 
 
 const TESTS = [
@@ -21,9 +19,9 @@ const TESTS = [
 
 TESTS.forEach(function (c) {
     it("should " + c[0], function (cb) {
-        Assert.equal(Typpy(c[1], c[2]), true);
-        Assert.equal(Typpy.is(c[1], c[2]), true);
-        Assert.equal(Typpy(c[1]), c[2]);
+    assert.equal(Typpy(c[1], c[2]), true);
+    assert.equal(Typpy.is(c[1], c[2]), true);
+    assert.equal(Typpy(c[1]), c[2]);
         cb();
     });
 });

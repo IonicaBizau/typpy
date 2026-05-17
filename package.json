@@ -2,7 +2,9 @@
   "name": "typpy",
   "version": "2.4.0",
   "description": "A better typeof for JavaScript.",
-  "main": "lib/index.js",
+  "type": "module",
+  "main": "./lib/index.js",
+  "exports": "./lib/index.js",
   "directories": {
     "example": "example",
     "test": "test"

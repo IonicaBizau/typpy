@@ -76,8 +76,7 @@ yarn add typpy
 
 
 ```js
-// Dependencies
-var Typpy = require("typpy");
+import Typpy from "typpy";
 
 console.log(Typpy(0));
 // => "number"
